@@ -30,9 +30,8 @@ A next-generation social platform built for global voices.
 **Demo Accounts:**
 | Email | Password |
 |---|---|
-| `demo@wroxi.com` | `demo123` |
-| `sara@wroxi.com` | `sara123` |
-| `tom@wroxi.com` | `tom123` |
+| `sohel@wroxi.com` | `demo1234` |
+| `sohelariyann@gmail.com` | `wroxi2026` |
 
 ---
 
